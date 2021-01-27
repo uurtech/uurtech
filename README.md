@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uurtech" alt="uurtech" /></a> </p>
 
-- 🔭 I’m currently working on **a-billion-dollar application**
+- 🔭 I’m currently working on **multiple projects**
 
 - 💬 Ask me about **aws, gcp, golang, nodejs, linux,php,bash**
 
