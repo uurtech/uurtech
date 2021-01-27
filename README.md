@@ -25,6 +25,6 @@
 <p><a href="https://www.buymeacoffee.com/coderinchief"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="coderinchief" /></a></p><br><br><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uurtech&show_icons=true&locale=en&layout=compact" alt="uurtech" /></p>
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uurtech&" alt="uurtech" /></p>
  
