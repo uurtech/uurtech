@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **multiple projects**
 
-- 💬 Ask me about **aws, gcp, golang, nodejs, linux, php, bash**
+- 💬 Ask me about **aws, gcp, golang, nodejs, linux, php, bash, kubernetes, ecs fargete**
 
 - 📫 How to reach me **http://linkedin.com/in/ugur-kazdal/**
 
