@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uurtech" alt="uurtech" /></a> </p>
 
-- 💬 Ask me about **aws, gcp, golang, nodejs, linux, php, bash, kubernetes, ecs fargate**
+- 💬 Ask me about **aws, golang, nodejs, linux, php, bash, kubernetes, ecs**
 
 - 📫 How to reach me **http://linkedin.com/in/ugur-kazdal/**
 
