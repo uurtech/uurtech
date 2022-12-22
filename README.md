@@ -1,5 +1,6 @@
-# 💫 About Me:
-I am currently working on Open Source projects to support Cloud communities
+# About Me:
+Solutions Architect at @AWS
+Backend Developer that designs Cloud
 
 
 ## 🌐 Socials:
