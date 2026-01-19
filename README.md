@@ -2,7 +2,7 @@
 
 An Architect who helps Startups on Cloud Journey
 
-Contributed to 200+ private repositories across multiple projects.
+Contributed to 240+ private repositories across multiple projects.
 
 
 ## 🌐 Socials:
