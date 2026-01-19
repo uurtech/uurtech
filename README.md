@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Uğur
+# Hey, I’m Ugur
 
 Builder. Problem-solver. Slightly obsessed with making things simpler than they should be.
 
