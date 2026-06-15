@@ -2,7 +2,7 @@
 
 Builder. Problem-solver. Slightly obsessed with making things simpler than they should be.
 
-I work hands-on across **backend, cloud, and product**, mostly helping ideas turn into systems that actually survive real users.
+I work hands-on across **backend, cloud, and products that I would like to use**, mostly helping ideas turn into systems that actually survive real users.
 
 ---
 
